@@ -1,0 +1,6 @@
+package com.ridesharing;
+
+public interface PaymentMethod {
+	 void pay(double amount);
+	 
+}
